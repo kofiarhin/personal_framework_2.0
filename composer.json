@@ -1,0 +1,19 @@
+{
+
+	
+
+    "require": {
+        "nesbot/carbon": "^1.36"
+    },
+
+
+    "autoload": {
+
+
+    	"psr-4": {
+
+    		"Escobar\\" : "app/Escobar"
+    	}
+
+    }
+}
