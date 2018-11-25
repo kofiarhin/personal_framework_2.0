@@ -1,8 +1,6 @@
 <?php 
 
 
-
-
 	$require_path = dirname(__dir__)."\\vendor\autoload.php";
 
 	
@@ -17,9 +15,6 @@
 		exist();
 	}
 
-
-
-	
 
 
  ?>
