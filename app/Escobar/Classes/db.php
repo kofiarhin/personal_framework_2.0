@@ -38,11 +38,7 @@
 
 			$this->pdo = new PDO("mysql:host=localhost;dbname=test", "root", "root");
 
-
-			$carbon = Carbon::now();
-
-			var_dump($carbon);
-
+			echo "connected";
 		}
 
 
