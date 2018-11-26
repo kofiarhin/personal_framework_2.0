@@ -45,7 +45,7 @@
 		public function query($sql, $fields = array()) {
 
 
-				var_dump($fields);
+				
 
 		}
 
