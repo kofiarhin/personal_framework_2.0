@@ -38,7 +38,15 @@
 
 			$this->pdo = new PDO("mysql:host=localhost;dbname=test", "root", "root");
 
-			echo "connected";
+			
+		}
+
+
+		public function query($sql, $fields = array()) {
+
+
+				var_dump($fields);
+
 		}
 
 
